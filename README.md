@@ -67,5 +67,7 @@ Yes! The extension features:
 - **Documentation**: [How to use pocket to notion](https://chatgptsave.notion.site/How-to-use-pocket-to-notion-1ff10052f0c881b9be6cf4ae79217b38)
 - **Support**: [GitHub Issues](https://github.com/joysey/pocket-to-notion/issues)
 - **Contact**: chatgpt2notion@gmail.com
+- **Chrome Web Store**: [Install Extension](https://chromewebstore.google.com/detail/jpbdgankeaohbackdjbnbicfiijaemod)
+- **Official Website**: [pocket2notion.chatgpt2notion.com](https://pocket2notion.chatgpt2notion.com)
 
 > ⚠️ Don't wait until it's too late - backup your Pocket articles today!
